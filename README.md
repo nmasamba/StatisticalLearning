@@ -1,6 +1,6 @@
 # Stanford Statistical Learning
 
-Sample R code written during my taking of Stanford Lagunita Online's offering of Stastical Learning, available <a href="https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info">here</a>. The course follows closely the sequence of chapters in the textbook "An Introduction to Statistical Learning, with Applications in R" (James, Witten, Hastie, Tibshirani - Springer 2013). This textbook is available for free online at http://www-bcf.usc.edu/~gareth/ISL/ thanks to the authors.
+Sample R code written during my taking of Stanford Lagunita Online's offering of Stastical Learning, available <a href="https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info">here</a>. The course follows closely the sequence of chapters in the textbook "An Introduction to Statistical Learning, with Applications in R" (James, Witten, Hastie, Tibshirani - Springer, 2013). This textbook is available for free online at http://www-bcf.usc.edu/~gareth/ISL/ thanks to the authors.
 
 I have enhanced most of the code with my personal comments, which would be of particular benefit to those taking an R-based statistical learning course for the first time.
 
